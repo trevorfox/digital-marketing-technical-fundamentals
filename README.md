@@ -79,11 +79,12 @@ The entry point for understanding websites and web apps. Learn how to read and q
 
 
 ## Scripting
-Build things! Start with an idea and some data and ending with something useful. Automation, bots, programs, games- the only limits are your imagination and tenasity.
+Build things! Start with an idea and some data and ending with something useful. Automation, bots, programs, games- the only limits are your imagination and tenacity.
 
 **Do:**
-- [Free Code Camp Algorithms](https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges)
+- [Free Code Camp Algorithms (Javascript)](https://www.freecodecamp.org/challenges/get-set-for-our-algorithm-challenges)
 - [Intro to CS with Python (Beginning Python)](https://www.udacity.com/course/intro-to-computer-science--cs101)
+- [Data Manipulation at Scale: Systems and Algorithms (Week 1)](https://www.coursera.org/learn/data-manipulation)
 - [Intro to CS and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 - [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 
