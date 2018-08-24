@@ -109,6 +109,7 @@ Most things that matter online use a database. Understand how data is stored in 
 - Find a book on whichever flavor of DB you might be interested in
 
 **Apply:**
+- [Explore Your Browser History with SQL](https://gist.github.com/dropmeaword/9372cbeb29e8390521c2)
 - [Python Anywhere](https://www.pythonanywhere.com/)
 - [Google Spreadheets QUERY Function](https://codingisforlosers.com/google-sheets-query-function/)
 
