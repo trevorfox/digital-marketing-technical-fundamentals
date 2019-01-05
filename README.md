@@ -1,7 +1,7 @@
-# Open Source Digital Marketing Tech Skills Map
+# Digital Marketing Web Fundamentals Guide
 
 
-**What is this "_Map_"?**
+**What is this guide?**
 <br>
 Jobs in digital (marketing or otherwise) emerge and change so fast that it is hard to find a course that teaches you everything that you need to know in order to be productive. The fundamentals skills and principles that underly these jobs however, do not change quite as fast. This map is meant to provide some structure and guidance for those looking to develop their technical skills.
 
@@ -9,17 +9,17 @@ Jobs in digital (marketing or otherwise) emerge and change so fast that it is ha
 <br>
 People who are interested in starting or developing a career in any area of digital marketing or digital analytics where technical skills are useful. (Most areas)
 
-**How do I use this map?**
+**How do I use this guide?**
 <br>
-This map can be followed in sequential order, as much of it builds sequentially, but it doesn't have to be. It is also not meant to be a strict curriculum, but more of a structure to help you find the place where you want to be.
+You can follow it in sequential order, as much of it builds sequentially, but it doesn't have to be. It is also not meant to be a strict curriculum, but more of a structure to help you find the place where you want to be.
 
-**How was it this map compiled?**
+**How was it this guide compiled?**
 <br>
-The map based on the experience and evaluation of those who have taken these steps and applied them in real life. The map is **_open source_** and meant to make learning accessible and applicable for all who read it.
+The guide based on the experience and evaluation of those who have taken these steps and applied them in real life. The guide is **_open source_** and meant to make learning accessible and applicable for all who read it.
 
 **How can I contribute!?**
 <br>
-That's the spirit! If you have something to add or want to add comments or critiques on the maps contents, [create an issue](https://guides.github.com/features/issues/) with your comments.  _(Contributing guidelines coming soon)_
+That's the spirit! If you have something to add or want to add comments or critiques on the guide's contents, [create an issue](https://guides.github.com/features/issues/) with your comments.  _(Contributing guidelines coming soon)_
 
 Now stop reading and go learn something!
 <br>
